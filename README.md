@@ -1,2 +1,2 @@
 # collective-intelligence
-Collective Intelligence Project Work
+Collective Intelligence Project Work -CA
